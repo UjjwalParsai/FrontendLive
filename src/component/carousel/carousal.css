@@ -1,0 +1,20 @@
+
+.search{ 
+   position:absolute;
+   top: 35%;
+   left: 73.6%;
+   transform: translate(-50%,-50%);
+   
+}
+.searchBar{
+
+    font-size: 18px;
+}
+
+/* .form .fa-search{
+    top: 35%;
+   left: 39%;
+   position: absolute;
+} */
+
+

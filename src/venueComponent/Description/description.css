@@ -1,0 +1,36 @@
+.main{
+    margin-top: 50px;
+    position: absolute;
+}
+
+.name{
+    font-family: "Merriweather,Merriweather-fallback-TimesNewRoman,times,serif";
+    font-weight: 700;
+    font-size: 1.60rem;
+}
+
+.images{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+    height: 120px;
+}
+
+.heading{
+    font-Family:"Merriweather,Merriweather-fallback-TimesNewRoman,times,serif";
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.endLine{
+    border-right: solid;
+    border-color: gray;
+    
+}
+
+.reqTitle{
+    font-family: "Merriweather,Merriweather-fallback-TimesNewRoman,times,serif";
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+

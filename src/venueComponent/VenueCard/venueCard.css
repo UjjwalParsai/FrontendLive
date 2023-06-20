@@ -1,0 +1,93 @@
+.heart{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    
+    cursor: pointer;
+    
+}
+
+
+.form{
+    
+    position: relative ; 
+}
+
+.form .fa-search{
+
+    position: absolute;
+    top:20px;
+    left: 20px;
+    color: #9ca3af;
+    
+
+}
+
+.form span{
+
+   position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db;
+
+}
+
+.left-pan{
+    padding-left: 7px;
+}
+
+.left-pan i{
+   
+   padding-left: 10px;
+}
+
+.form-input{
+
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px;
+    
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+
+    
+}
+
+.card-top-img{
+   
+   overflow: hidden;
+    
+}
+
+.v-c-img:hover{
+    transform: scale(1.2);
+    
+}
+
+.v-c-img{
+    transition: transform .6s;
+    cursor: pointer;
+}
+
+.v-card{
+    height: 350px;
+}
+
+/* .venue-filter{
+    border-bottom: 1px solid rgb(224, 212, 212); 
+ 
+} */
+
+.venue-filter-drop:hover{
+  color: red;
+}
+
+.venue-filter-drop{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+

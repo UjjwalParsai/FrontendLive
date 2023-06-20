@@ -1,0 +1,19 @@
+.card-top-img{
+   
+    overflow: hidden;
+     
+ }
+ 
+ .panditCard-img:hover{
+     transform: scale(1.2);
+     
+ }
+ 
+ .panditCard-img{
+     transition: transform .6s;
+     cursor: pointer;
+ }
+ 
+ .pandit-card{
+     height: 360px;
+ }

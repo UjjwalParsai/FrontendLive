@@ -1,0 +1,40 @@
+.navLink{
+    height: 5vh;
+    font-size: 1rem;
+    font-weight: 600; 
+    margin-left: 100px; 
+    margin-top: -5px;
+    
+}
+
+.nav-item{
+    margin-left: 40px;
+}
+
+.nav-link{
+    color: black;
+  
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid red;
+    color: red;
+    
+
+}
+
+.mainDiv{
+
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 20px 10px -20px;    
+}
+
+.dropdown-menu{
+    margin-left: -35px;
+    
+}
+
+.dropdown-toggle:hover{
+    
+}
+
+

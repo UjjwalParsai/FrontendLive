@@ -1,0 +1,56 @@
+.userSignInDiv{
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.user-form-title{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: ProximaNova,Helvetica,Arial,sans-serif;
+    margin-top: 10%;
+
+}
+
+.user-form-input{
+    width: 80%;
+    margin-left: 8%;
+    outline: none;
+    border: none;
+    background-color: transparent !important;
+    margin-top: 5%;
+    border-bottom:2px solid grey;
+   
+    
+}
+
+.user-form-input:hover:after{
+    transform: scaleX(1);
+    
+}
+
+.user-form-input::after {
+    display      : block;
+    content      : '';
+    border-bottom: solid 5px black;
+    transform    : scaleX(0);
+    transition   :300ms ease-in-out;
+    transform-origin: 0 50%;
+}
+
+
+.user-form-submit{
+    background-color:red;
+    color:white;
+    font-weight: 400;
+    width: 60%;
+}
+
+.user-form-submit:hover{
+    background-color:  #fb1b26;
+    color:white;
+    font-weight: 400;
+}
+

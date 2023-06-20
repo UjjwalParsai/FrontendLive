@@ -1,0 +1,15 @@
+.mehandi_car_conent{
+    height: 15vw;
+    position: absolute;
+    margin-top: -18%;
+    margin-left: 8%;
+    border-radius: 1vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.mehandi_content_head{
+    font-family: "Merriweather,Merriweather-fallback-TimesNewRoman,times,serif";
+font-weight: 600;
+font-size: 2rem;
+margin-left: 7%;
+}
